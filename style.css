@@ -1,0 +1,19 @@
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table td {
+    height: 50px;
+    text-align: center;
+    border: 2px solid black;
+    margin: 0px;
+} 
+
+ table th {
+    height: 50px;
+    background-color: lightgreen;
+    font-weight: bold;
+    text-align: center;
+    border: 2px solid black;
+}
