@@ -23,7 +23,7 @@ class Table {
 
     /**
      * Constructor of the table
-     * It has parametres
+     * It has no parametres
      */
     public function __construct() {
         $this->Header = array();
